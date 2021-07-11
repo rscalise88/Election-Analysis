@@ -25,6 +25,8 @@ The results of the election audit indicate that:
   - 24,801 votes were cast in Arapahoe County, 6.7% of the total votes
   - 306,055 votes were cast in Denver County, 82.8% of the total votes
   - 38,855 votes were cast in Jefferson County, 10.5% of the total votes
+- The county with the highest voter turnout was:
+  - Denver County, wherein 306,0855 votes were cast, 82.8% of the total votes.
 - The candidates were
   - Charles Casper Stockholm
   - Raymon Anthony Doane
@@ -34,7 +36,7 @@ The results of the election audit indicate that:
   - Raymon Anthony Doane received 3.1% of the vote and 11,606 votes.
   - Diana DeGette received 73.8% of the vote and 272,892 votes.
 - The winner of the election was:
-  - Diana DeGette, who received 3.1% of the vote and 11,606 votes.
+  - Diana DeGette, who received 73.8% of the vote and 272,892 votes.
 
 ## Summary
 As seen above, this program can be used to quickly sort through election data to quickly determine not just the outcome of an election, but provide useful data analytics beyond determining a winner.  This code could be easily manipulated to work in many other scenarios.  As currently presented, the code analyzes a local election at the country-level specifically.  An example of this:
