@@ -71,4 +71,4 @@ The code could be modified to read "for" and "against" votes instead of names:
             selection_votes[selection] = 0
         selection_votes[selection] += 1
         
-From this we could determine the votes cast in total for "for" and "against" and further down the code, continue the modification to analyze the data for each to determine if the ballot measure passes or not my majority.
+From this we could determine the votes cast in total for "for" and "against" and further down the code, continue the modification to analyze the data for each to determine if the ballot measure passes or not by majority.
